@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "CoreUIComponents.dll",
+  "latest": "222445461-B405E11DB9F2D4C56129F644C02687C7-1",
+  "builds": [
+    {
+      "key": "222445461-B405E11DB9F2D4C56129F644C02687C7-1",
+      "timestamp": "222445461",
+      "pdb_guid": "B405E11DB9F2D4C56129F644C02687C7",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/222445461-B405E11DB9F2D4C56129F644C02687C7-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}

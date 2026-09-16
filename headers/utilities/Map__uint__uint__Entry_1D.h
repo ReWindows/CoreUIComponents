@@ -1,0 +1,6 @@
+#pragma once
+#include "../windissect_forwards.h"
+
+// Reconstructed from CoreUIComponents.dll by Windissect. 2 member(s).
+class Map__uint__uint__Entry_1D {
+};

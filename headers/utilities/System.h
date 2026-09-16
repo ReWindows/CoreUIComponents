@@ -1,0 +1,94 @@
+#pragma once
+#include "../windissect_forwards.h"
+
+// Reconstructed from CoreUIComponents.dll by Windissect. 1 member(s).
+class System {
+public:
+    class AccessViolationException;
+    class Action;
+    class Action__bool;
+    class Action__object;
+    class Action__object__bool;
+    class Action__object__object;
+    class Action__object__uint;
+    class Action__uint;
+    class Action__uint__uint;
+    class ApplicationException;
+    class ArgumentException;
+    class ArgumentNullException;
+    class ArgumentOutOfRangeException;
+    class ArithmeticException;
+    class Array;
+    class ArrayTypeMismatchException;
+    class Array__ArrayEnumerator;
+    class BadImageFormatException;
+    class Boolean;
+    class Boolean__Boxed;
+    class Byte_1D;
+    class Byte__Boxed;
+    class Char_1D;
+    class Char__Boxed;
+    class Console;
+    class DateTime;
+    class DateTime__Boxed;
+    class Delegate;
+    class Delegate_1D;
+    class DivideByZeroException;
+    class DllNotFoundException;
+    class Double;
+    class Double__Boxed;
+    class EntryPointNotFoundException;
+    class Enum;
+    class EventArgs;
+    class EventHandler;
+    class Exception;
+    class FormatException;
+    class Guid;
+    class Guid__Boxed;
+    class IDisposable;
+    class IndexOutOfRangeException;
+    class Int16__Boxed;
+    class Int32;
+    class Int32_1D;
+    class Int32__Boxed;
+    class Int64__Boxed;
+    class IntPtr;
+    class IntPtr__Boxed;
+    class InvalidCastException;
+    class InvalidOperationException;
+    class MemberAccessException;
+    class MissingMemberException;
+    class MissingMethodException;
+    class MulticastDelegate;
+    class NotImplementedException;
+    class NotSupportedException;
+    class NullReferenceException;
+    class Object;
+    class ObjectDisposedException;
+    class Object_1D;
+    class OutOfMemoryException;
+    class OverflowException;
+    class RankException;
+    class SByte__Boxed;
+    class Single;
+    class Single__Boxed;
+    class String;
+    class StringComparison__Boxed;
+    class String_1D;
+    class String__StringEnumerator;
+    class String__StringEnumerator__Boxed;
+    class SystemException;
+    class TimeSpan__Boxed;
+    class Type;
+    class TypeLoadException;
+    class Type_1D;
+    class UInt16__Boxed;
+    class UInt32__Boxed;
+    class UInt64__Boxed;
+    class UnauthorizedAccessException;
+    class ValueType;
+public /*unspecified*/:
+    // Category: Method | Source: PDB Internal
+    // Symbol: ?sprintf_int64@System@@YAHPEA_W_KPEB_W_JH@Z
+    int sprintf_int64(wchar_t *, uint64_t, wchar_t const *, int64_t, int);
+};
